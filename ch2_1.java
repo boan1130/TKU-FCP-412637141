@@ -1,4 +1,4 @@
-import javax.print.DocFlavor.STRING;
+import java.print.DocFlavor.STRING;
 
 public class ch2_1 {//定義類別ch2_1
     public static void main(String[]args){//main()函數，主程式開始
