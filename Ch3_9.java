@@ -9,7 +9,7 @@ public class Ch3_9 {
 
         System.out.println("c1="+c1+", c2="+c2+", c3="+c3);
         System.out.println("uni=+uni");
-        System.out.println((int)'好');
+        System.out.println(uni);
         System.out.println("unil="+unil);
     }
 }

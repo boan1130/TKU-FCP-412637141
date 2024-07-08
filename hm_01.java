@@ -5,6 +5,6 @@ public class hm_01 {
         String name = "john";
        System.out.println(age); 
        System.out.println(initial);
-       System.out.println("name");
+       System.out.println(name);
 }
 }
