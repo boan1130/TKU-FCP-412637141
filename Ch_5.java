@@ -1,4 +1,4 @@
-public class Ch3_5 {
+public class Ch_5 {
     public static void main(String[] args) {
         int i=java.lang.Integer.MAX_VALUE;
 
